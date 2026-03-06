@@ -1,6 +1,6 @@
 # Gonçalo Baptista Ferraz — UX Portfolio
 
-Senior UX Lead & Researcher with 15+ years of experience in product design, UX research, and information architecture across B2B SaaS, health tech, legal platforms, and mobile apps.
+Senior UX Lead & Researcher. I've been practicing UX since 2004 — from information architecture and usability to interaction design, mixed-methods research, and AI-assisted product strategy — across B2B SaaS, health tech, legal platforms, and mobile apps.
 
 Available for international UX consulting and embedded UX lead engagements.
 
