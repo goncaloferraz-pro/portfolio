@@ -28,6 +28,8 @@ The **systems audit** mapped all 70+ digital properties, documenting a service i
 
 **Stakeholder workshops** used weighted scoring to classify all 43 services by business impact and usage frequency, producing the definitive service hierarchy and MVP roadmap. This step was critical — without it, every department believed their services were the priority.
 
+![Service classification workshop — Venn diagram mapping services by audience (members-only, public, shared) with weighted prioritization grid](assets/legal-portal-ecosystem-workshop-board.png)
+
 ## What we found
 
 The core problem wasn't fragmentation of systems. It was fragmentation of purpose. The homepage tried to serve everyone simultaneously: institutional news mixed with critical attorney tools, public transparency mixed with members-only services. No user group could efficiently complete their primary tasks.
