@@ -18,6 +18,10 @@ Available for international UX consulting and embedded UX lead engagements.
 | [web-hosting-platform-migration-research-2024-08.md](web-hosting-platform-migration-research-2024-08.md) | Web Hosting / Enterprise SaaS | Mixed-Methods UX Research | 2024 |
 | [web-hosting-domain-management-usability-2025-01.md](web-hosting-domain-management-usability-2025-01.md) | Web Hosting / Enterprise SaaS | Moderated Usability Testing | 2025 |
 | [insurance-mobile-analytics-dashboard-2019.md](insurance-mobile-analytics-dashboard-2019.md) | Insurance / Financial Services | Stakeholder Research & Dashboard Design | 2019 |
+| [web-platform-navigation-redesign-research-2023.md](web-platform-navigation-redesign-research-2023.md) | Web Hosting / SaaS | Multi-Method UX Research | 2023 |
+| [web-platform-product-naming-research-2023.md](web-platform-product-naming-research-2023.md) | Web Hosting / SaaS | Mixed-Methods Product Naming Research | 2023 |
+| [web-platform-ecommerce-onboarding-usability-2022.md](web-platform-ecommerce-onboarding-usability-2022.md) | Web Hosting / SaaS | Iterative Unmoderated Usability Testing | 2022 |
+| [web-hosting-scalable-shared-hosting-research-2022.md](web-hosting-scalable-shared-hosting-research-2022.md) | Web Hosting / SaaS | Mixed-Methods UX Research | 2022 |
 
 ---
 

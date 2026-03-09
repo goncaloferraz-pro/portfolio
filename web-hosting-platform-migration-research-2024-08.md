@@ -12,6 +12,7 @@
 | **999** customer responses analyzed | **2** legacy platforms migrated to one unified system |
 | **8** critical improvement areas with specific actions | **~90,000** emails lost in a single migration incident |
 | **4** cross-functional teams briefed | Q4 2024 + Q1 2025 product roadmap directly influenced |
+| **79** customers explicitly named their previous platform | **8** live conversations with migrated customers |
 
 ---
 
@@ -25,7 +26,7 @@ Over four weeks (August–September 2024), I led a mixed-methods analysis of **9
 
 - Voice of Customer surveys (May–July 2024), 
 - an in-product feedback survey (July 2024), and 
-- qualitative interviews (July–August 2024).
+- qualitative interviews (July–August 2024) — including **8 live conversations** with migrated customers and written feedback from **79 respondents** who explicitly named their previous platform (**55% from Platform A, 45% from Platform B** in written feedback; **25% / 75%** split in live interviews).
 
 The two customer cohorts were analyzed separately and then compared: **450 responses** from Platform A — a domain-focused registrar with a high proportion of long-tenured resellers and power users — and **549 responses** from Platform B — a website and email-focused platform serving small business owners with varied technical skill levels.
 
@@ -51,6 +52,23 @@ Platform B customers hit a wall of missing functionality: web forwarding, email 
 A secondary analysis of the unified platform's website builder revealed deeply polarized satisfaction: **20% very satisfied** against **45% dissatisfied or very dissatisfied** — the gap driven primarily by technical failures and inaccessible support.
 
 Across both cohorts, one theme was universal: **customers felt blindsided**. No migration guidance, no system-difference documentation, no proactive outreach.
+
+The qualitative data — live conversations and segmented written feedback from customers who explicitly named their previous platform — identified **8 recurring pain points** in order of frequency:
+
+1. Poor customer support, with long wait times and ineffective assistance
+2. Technical failures across SSL certificates, website functionality, and email forwarding
+3. Service disruptions and feature loss during the transition
+4. Significant price increases and unexpected charges
+5. A complicated, unintuitive interface difficult to navigate for experienced users
+6. Lack of communication about the migration, pricing changes, and discontinued features
+7. Account management failures — login issues and broken payment update flows
+8. Billing errors — charges applied to canceled services and products
+
+Four structural challenges underlay these: UI unfamiliarity; feature findability failures; account recovery breakdowns; and pricing discontinuity — services that had been free on both legacy platforms now charged separately on the unified one.
+
+The live conversations provided the clearest picture of retention risk. One long-tenured domain customer calculated a **72% price increase** on domain renewals between their legacy platform ($21.99) and the unified platform ($37.99), and described the transition as "absolutely horrendous" — noting that a new customer relationship cannot begin with an immediate price increase. A power user managing 20+ domains for family members and non-profits spent approximately **10 hours** attempting to transfer a single domain locked during migration. A third customer — a performing artist who relied on email forwarding for his businesses — transferred all his domains to a competitor the moment the feature was announced as discontinued, and completed the transfer before the decision was reversed: a customer lost despite a feature rollback.
+
+One Dotster customer who had a positive post-migration experience noted that "once they find the feature, everything goes well" — confirming the step-by-step flows were functional, but that feature discoverability remained the primary obstacle even for users who were not adversely affected by the pricing or data issues.
 
 ## What changed
 
