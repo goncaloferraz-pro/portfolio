@@ -32,13 +32,8 @@ The case studies here are anonymized. They document the problem, the method, the
 | [Hearing Health Mobile App UX — India](hearing-health-mobile-app-ux-india-2026.md) | Hearing Health / Mobile App | 2026 | Senior UX Lead |
 | [Retail Loyalty B2B SaaS UX](retail-loyalty-b2b-saas-ux-2019.md) | Retail / B2B SaaS / Loyalty & CRM | 2019 | Senior UX Designer / UX Researcher |
 | [E-Commerce Furniture Ethnographic Research](ecommerce-furniture-ethnographic-research-2019.md) | E-Commerce / Home Furnishing | 2019 | UX Researcher |
-| [Infrastructure Digital Twin UX Strategy](infrastructure-digital-twin-ux-strategy-2025.md) | Infrastructure / Digital Twin / AI | 2025 | Principal UX Strategist |
-| [Community Platform UX Improvement Proposal](hearing-health-community-ux-research-2025.md) | Hearing Health / Social Platform | 2025 | Senior UX Researcher |
-| [Financial Internet Banking Discovery](financial-internet-banking-discovery-2026.md) | Financial Services / B2B Fintech | 2026 | UX Consultant |
 | [Cosmetics Design Sprint Facilitation](cosmetics-design-sprint-facilitation-2018.md) | Cosmetics / Retail / Operations | 2018 | UX Designer / Design Sprint Facilitator |
-| [Cosmetics Mobile App UX Research](cosmetics-mobile-app-ux-research-2026.md) | Cosmetics / Mobile App / Consumer | 2026 | UX Researcher |
 | [Fiber Networking B2B Design Sprint](manufacturing-b2b-design-sprint-2019.md) | Manufacturing / Telecommunications | 2019 | UX Designer / Design Sprint Facilitator |
-| [Maintenance SaaS Mobile App Usability Scoping](saas-mobile-app-usability-scoping-2021.md) | SaaS / Mobile App / Operations | 2021 | UX Consultant |
 
 ---
 
