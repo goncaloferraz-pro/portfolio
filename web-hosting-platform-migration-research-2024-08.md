@@ -6,6 +6,7 @@ duration: 4 weeks (August–September 2024)
 primary_role: Senior UX Researcher
 secondary_roles:
   - Research Ops
+  - Data Analyst
 methods:
   - Survey analysis (Voice of Customer, in-product feedback)
   - Qualitative interviews
@@ -45,6 +46,7 @@ I designed the cross-platform comparative analysis framework, led all 8 live cus
 
 **Secondary roles:**
 - **Research Ops**: Defined the cohort segmentation strategy (450 Platform A / 549 Platform B), created the tagging framework for open-ended response coding, and structured the 8-priority-area output format for cross-functional briefing.
+- **Data Analyst**: Applied thematic coding, sentiment analysis, and issue frequency/severity mapping across 999 responses to produce a quantified, ranked view of migration failures across both cohorts.
 
 ---
 

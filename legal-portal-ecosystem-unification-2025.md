@@ -7,7 +7,7 @@ primary_role: Principal UX Strategist
 secondary_roles:
   - UX Researcher
   - UX Auditor / Consultant
-  - UX Designer
+  - Information Architect
 methods:
   - Heuristic evaluation
   - Service inventory and task mapping
@@ -45,7 +45,7 @@ I created the three-tier hypersegmentation architecture — the strategic framew
 **Secondary roles:**
 - **UX Researcher**: Led heuristic evaluation, service mapping interviews, and card-sorting with stakeholder groups to define service priority tiers.
 - **UX Auditor / Consultant**: Produced the full diagnostic report series (executive summary, technical diagnosis, heuristic evaluation, methodology, and IA specification), with fragmentation evidence and severity ratings.
-- **UX Designer**: Defined the full information architecture and navigation model for the proposed unified portal, including the attorney workspace task taxonomy.
+- **Information Architect**: Defined the full information architecture and navigation model for the proposed unified portal, including the attorney workspace task taxonomy.
 
 ---
 

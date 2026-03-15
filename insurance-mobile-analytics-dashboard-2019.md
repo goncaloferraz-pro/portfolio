@@ -3,9 +3,9 @@ title: "Mobile App Analytics Dashboard — Insurance Services Conglomerate"
 year: 2019
 domain: Insurance / Financial Services
 duration: ~3 months (2019)
-primary_role: Senior UX Designer
+primary_role: Senior Information Architect
 secondary_roles:
-  - UX Researcher
+  - Data Analyst
   - Research Ops
 methods:
   - Stakeholder interviews
@@ -38,11 +38,11 @@ As the mobile app design team leader, I identified both the problem and the oppo
 
 ## 2. My Role
 
-**Primary: Senior UX Designer**
+**Primary: Senior Information Architect**
 I led the end-to-end process from research through architecture and handoff — designing the dashboard structure, not just researching the requirements. My role combined research leadership with information architecture and design direction.
 
 **Secondary roles:**
-- **UX Researcher**: Conducted stakeholder interviews to map unmet analytics needs; analyzed App Store and Google Play reviews to identify recurring product issues.
+- **Data Analyst**: Analyzed App Store and Google Play reviews to identify recurring product complaint clusters; quantified that 82.4% of complaints concentrated in recurring topics, directly shaping the Content and Platform metric categories.
 - **Research Ops**: Facilitated the online prioritization workshop with the product and design team; structured the metric inventory and voting process that produced the final specification.
 
 ---

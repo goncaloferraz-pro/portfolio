@@ -5,7 +5,7 @@ domain: Web Hosting / SaaS
 duration: ~5 weeks (late August–late September 2022)
 primary_role: Senior UX Researcher
 secondary_roles:
-  - UX Strategist
+  - Product Strategist
 methods:
   - Prior research synthesis
   - Customer interviews
@@ -43,7 +43,7 @@ The question: could a new tier between shared and VPS retain these customers? An
 I led all four phases of the study — from synthesizing prior research through prototype testing — and produced structured, actionable recommendations organized by impact and implementation effort.
 
 **Secondary roles:**
-- **UX Strategist**: Identified that the core retention problem was an upgrade path architecture failure, not primarily a price or feature problem — reframing the product direction from "build a better VPS" to "remove the upgrade cliff entirely."
+- **Product Strategist**: Identified that the core retention problem was an upgrade path architecture failure, not primarily a price or feature problem — reframing the product direction from "build a better VPS" to "remove the upgrade cliff entirely."
 
 ---
 

@@ -5,7 +5,7 @@ domain: Web Hosting / SaaS
 duration: ~4 weeks
 primary_role: Senior UX Researcher
 secondary_roles:
-  - Research Ops
+  - Business Analyst
 methods:
   - Prior knowledge review
   - Unmoderated survey (Maze)
@@ -40,7 +40,7 @@ The marketing team had generated a list of potential product names, but needed a
 I designed the four-stage research process end to end: defined evaluation criteria, built and ran two surveys, facilitated the stakeholder workshop, and synthesized all stages into a ranked, scored recommendation.
 
 **Secondary roles:**
-- **Research Ops**: Defined the 5-criteria evaluation framework that structured all subsequent stages; built the scoring composite that allowed quantitative comparison across qualitative preferences.
+- **Business Analyst**: Defined the 5-criteria evaluation framework that structured all subsequent stages; built the scoring composite that allowed quantitative comparison across qualitative preferences — translating an internal naming disagreement into a structured, defensible decision process.
 
 ---
 
