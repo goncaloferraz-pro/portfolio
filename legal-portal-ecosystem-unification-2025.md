@@ -1,4 +1,4 @@
----
+```yaml
 title: "Digital Ecosystem Unification — State Bar Association Portal Strategy"
 year: 2025
 domain: Legal / Professional Association
@@ -15,7 +15,7 @@ methods:
   - Stakeholder prioritization workshops
   - Information architecture design
 impact: Delivered IA strategy and unification framework for a 4-portal legal ecosystem serving 50,000+ legal professionals
----
+```
 
 # State Bar Association — Unifying a Fragmented Digital Ecosystem
 

@@ -1,4 +1,4 @@
----
+```yaml
 title: "Product Naming Research — WordPress Plugin for Small Business"
 year: 2023
 domain: Web Hosting / SaaS
@@ -12,7 +12,7 @@ methods:
   - Stakeholder creative workshop
   - Validation survey
 impact: Delivered a ranked, scored, defensible naming recommendation grounded in target-user responses — not internal preference
----
+```
 
 # Web Services Platform — Finding the Right Product Name Before Launch
 

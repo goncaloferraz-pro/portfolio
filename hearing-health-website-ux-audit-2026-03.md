@@ -1,4 +1,4 @@
----
+```yaml
 title: "Six UX Findings That Turned a Brochure Website Into a Journey"
 year: 2026
 domain: Hearing Health / Consumer Website
@@ -15,7 +15,7 @@ methods:
   - Slide deck specification
   - Meeting script writing
 impact: "6 UX findings documented; authentication cascade across 3 domains mapped; 10-slide presentation deck produced; meeting script written for 25-minute client session; all findings hypothesis-framed for Austrian audience"
----
+```
 
 # Cochlear Implant Recipient Website — Six UX Findings That Revealed a Brochure Pretending to Be a Journey
 

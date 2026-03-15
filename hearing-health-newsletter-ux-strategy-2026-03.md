@@ -1,4 +1,4 @@
----
+```yaml
 title: "Turning a Content Website Into a Newsletter Subscription Platform"
 year: 2026
 domain: Hearing Health / Medical Content
@@ -17,7 +17,7 @@ methods:
   - HTML/CSS prototyping
   - RSS pipeline strategy and content schema design
 impact: "6-locale audit completed; FR-CA localization crisis identified as root cause of 62% bounce rate; 4 of 5 prototype decisions validated by evidence; full newsletter content pipeline strategy with 13 curated sources; HTML prototype and slide deck delivered in 9 days"
----
+```
 
 # Hearing Health Professional Platform — From Content Website to Newsletter Subscription Engine
 

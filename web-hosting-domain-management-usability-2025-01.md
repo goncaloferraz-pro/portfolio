@@ -1,4 +1,4 @@
----
+```yaml
 title: "Domain Management Usability Study — Enterprise Web Hosting Platform"
 year: 2025
 domain: Web Hosting / Enterprise SaaS
@@ -12,7 +12,7 @@ methods:
   - Iterative two-round testing
   - Video highlight reel
 impact: 7 critical usability issues caught and resolved before development; all 5 priority design changes implemented pre-sprint
----
+```
 
 # Enterprise Web Hosting — Catching Domain Flow Failures Before They Reached Production
 

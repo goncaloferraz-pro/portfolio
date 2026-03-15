@@ -1,4 +1,4 @@
----
+```yaml
 title: "Scoping a Dual-Product UX Engagement After Vendor Failure"
 year: 2026
 domain: Hearing Health / Mobile App / Healthcare Professional Platform
@@ -15,7 +15,7 @@ methods:
   - GitHub project structure definition
   - Authentication cost research
 impact: "131-hour UX estimate across two products; 44 GitHub issues created from estimate; legacy PRD critically evaluated and selectively adopted; OTP authentication cost research redirected toward WhatsApp Auth; dual-product UX scope defined in 48 hours"
----
+```
 
 # Hearing Health Professional Community App (India) — Restarting a Failed Vendor Engagement
 

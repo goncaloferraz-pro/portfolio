@@ -1,4 +1,4 @@
----
+```yaml
 title: "E-Commerce Store Setup Usability Testing — Web Hosting Platform"
 year: 2022
 domain: Web Hosting / SaaS
@@ -12,7 +12,7 @@ methods:
   - Severity rating
   - Iterative testing (two-round)
 impact: 7 prototype issues resolved before development began; 100% task completion validated on revised flow
----
+```
 
 # Web Hosting Platform — Testing an E-Commerce Onboarding Flow Before It Went Live
 

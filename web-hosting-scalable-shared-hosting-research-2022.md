@@ -1,4 +1,4 @@
----
+```yaml
 title: "Scalable Shared Hosting UX Research — Web Services Platform"
 year: 2022
 domain: Web Hosting / SaaS
@@ -13,7 +13,7 @@ methods:
   - Prototype usability testing
   - Screener survey
 impact: Provided validated product-market fit evidence and failure-mode analysis for a new hosting tier targeting high-value churning customers
----
+```
 
 # Web Hosting Platform — Why High-Traffic Customers Left for Competitors at 5–10× the Price
 

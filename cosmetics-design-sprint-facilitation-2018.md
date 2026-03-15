@@ -1,4 +1,4 @@
----
+```yaml
 title: "Design Sprint Facilitation Across Three Business Challenges for a Cosmetics Group"
 year: 2018
 domain: Cosmetics / Retail / Operations
@@ -11,7 +11,7 @@ methods:
   - User testing (internal stakeholders, store managers, franchise administrators)
   - Problem framing
 impact: "Three sprints completed across different departments; prototypes validated with real users; solutions proposed for MRO process, franchise supply purchasing, and marketplace operations management"
----
+```
 
 # Cosmetics Group — Design Sprint Facilitation for Supply Chain, MRO, and Marketplace
 

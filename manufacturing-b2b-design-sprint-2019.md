@@ -1,4 +1,4 @@
----
+```yaml
 title: "Design Sprint and Field Research for a B2B Fiber Networking App"
 year: 2019
 domain: Manufacturing / Telecommunications / B2B
@@ -12,7 +12,7 @@ methods:
   - User interviews (installation technicians and operations staff)
   - App concept design
 impact: "Design Sprint completed; field research conducted with technicians; app concept produced for fiber network installation management; primary artifacts are in non-text formats (Sketch, Google Slides, XMind)"
----
+```
 
 # Fiber Networking Equipment Manufacturer — Design Sprint for a Field Service Management App
 

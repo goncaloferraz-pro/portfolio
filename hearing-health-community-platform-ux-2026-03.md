@@ -1,4 +1,4 @@
----
+```yaml
 title: "UX Leadership on a Global Cochlear Implant Community Platform"
 year: 2026
 domain: Hearing Health / Social Platform
@@ -16,7 +16,7 @@ methods:
   - UX backlog prioritization from user feedback
   - Triangulation research design
 impact: "RBAC-to-UX translation delivered for 7 user roles; connections page redesigned with role-aware 3-carousel architecture; 28-item UX backlog produced; user task map for all 5 business roles; interactive HTML prototype delivered for client presentation"
----
+```
 
 # Cochlear Implant Community Platform — UX Leadership Across 7 User Roles
 

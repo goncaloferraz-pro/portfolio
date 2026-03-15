@@ -1,4 +1,4 @@
----
+```yaml
 title: "Full-Stack UX for a B2B Loyalty SaaS: IA, Research, and a Kiosk in a Supermarket"
 year: 2019
 domain: Retail / B2B SaaS / Loyalty & CRM
@@ -16,7 +16,7 @@ methods:
   - Onboarding strategy and flow design
   - Churn research
 impact: "13 research sessions with 10 clients and 17 respondents; 3 proto-personas defined; formal ontology and 33-page IA document produced; card sorting studies for campaign and configuration navigation; physical kiosk sign-up flow designed; onboarding strategy delivered"
----
+```
 
 # B2B Loyalty SaaS for Supermarkets — Full-Stack UX Across Research, IA, and Physical Touchpoints
 

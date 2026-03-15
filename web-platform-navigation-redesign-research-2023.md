@@ -1,4 +1,4 @@
----
+```yaml
 title: "Website Navigation Redesign Research — Enterprise Web Services Platform"
 year: 2023
 domain: Web Hosting / SaaS
@@ -12,7 +12,7 @@ methods:
   - Card sorting
   - Moderated usability testing
 impact: Research defined and validated the navigation architecture — 4 groupings, mega menu, and labeling strategy — before any design or engineering investment
----
+```
 
 # Enterprise Web Services Platform — Navigation Architecture From First Principles
 

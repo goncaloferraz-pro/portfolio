@@ -1,4 +1,4 @@
----
+```yaml
 title: "Platform Migration Customer Feedback Analysis — Enterprise Web Hosting"
 year: 2024
 domain: Web Hosting / Enterprise SaaS
@@ -15,7 +15,7 @@ methods:
   - Cross-platform comparative analysis
   - Issue frequency and severity mapping
 impact: Findings directly influenced Q4 2024 and Q1 2025 product roadmap across 4 cross-functional teams
----
+```
 
 # Enterprise Web Hosting — Turning 999 Migration Complaints Into an Action Plan
 

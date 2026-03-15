@@ -1,4 +1,4 @@
----
+```yaml
 title: "Ethnographic Research on High-Consideration Furniture Purchases"
 year: 2019
 domain: E-Commerce / Home Furnishing / Retail
@@ -12,7 +12,7 @@ methods:
   - Thematic synthesis
   - Research presentation (readout)
 impact: "Qualitative research completed and delivered; field photography documented contextual purchase decision behavior; findings presented to product team for roadmap informing"
----
+```
 
 # Home Furnishing E-Commerce — Understanding the Decision Journey Through Field Research
 

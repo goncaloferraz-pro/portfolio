@@ -1,4 +1,4 @@
----
+```yaml
 title: "Activation & Retention Research — B2B SaaS Process Management Platform"
 year: 2020
 domain: B2B SaaS
@@ -14,7 +14,7 @@ methods:
   - High-Value Actions analysis
   - Customer journey mapping
 impact: Research redefined the activation model and informed a product redesign that preceded 2× ARR growth and a $75M Series C
----
+```
 
 # B2B Workflow Platform — Defining Activation Before Users Gave Up
 

@@ -1,4 +1,4 @@
----
+```yaml
 title: "Mobile App Analytics Dashboard — Insurance Services Conglomerate"
 year: 2019
 domain: Insurance / Financial Services
@@ -14,7 +14,7 @@ methods:
   - Prioritization workshop
   - Dashboard information architecture
 impact: Gave product managers direct self-service access to app metrics, eliminating an analytics bottleneck that previously took months per request
----
+```
 
 # Insurance Conglomerate — Designing a Mobile Analytics Dashboard From First Principles
 
