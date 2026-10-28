@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–October 2026 · **816 documented sessions** · **examples shown:** 18, drawn from 31 May – 15 October 2026
+**Period covered:** March–October 2026 · **823 documented sessions** · **examples shown:** 18, drawn from 31 May – 15 October 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -47,7 +47,7 @@ A specialist agent roster with governed handoffs, custom MCP servers, per-agent 
 - **A blind comparison replaced the model that writes the memory system, then a judged cleanup archived 414 junk entries** — The choice rested on evidence rather than preference, and retrieval now draws on durable entries. *(Oct 2026)*
 - **Three specialists ruled on their own records, and the restore point caught what the repair destroyed** — Cleared an eight-day write freeze on a production knowledge base with every repair verified by an instrument independent of the one that made it. *(Aug 2026)*
 
-*74 further documented sessions in this area.*
+*75 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
@@ -67,7 +67,7 @@ Model selection treated as an architectural decision with a written routing stan
 - **A thirty-day token census pointed a cost-cutting request at a different lever than the one suspected** — The expensive work was not where intuition put it, and the restructure that felt productive would have saved under five percent. *(Sep 2026)*
 - **A dead auth path became a governed subagent, verified end to end** — Restored a broken capability and hardened it against two silent-failure modes (unverified billing state. *(Aug 2026)*
 
-*8 further documented sessions in this area.*
+*9 further documented sessions in this area.*
 
 ### Turn commercial pressure into a scope somebody can defend upstream
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*816 sessions recorded between 2026-03-06 and 2026-10-19; 217 of them logged but not written up. Regenerated from both sources on every update.*
+*823 sessions recorded between 2026-03-06 and 2026-10-26; 218 of them logged but not written up. Regenerated from both sources on every update.*
 
