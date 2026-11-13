@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–November 2026 · **837 documented sessions** · **examples shown:** 18, drawn from 31 May – 3 November 2026
+**Period covered:** March–November 2026 · **848 documented sessions** · **examples shown:** 18, drawn from 31 May – 3 November 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -23,9 +23,9 @@ a real fix.
 
 Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a competitor's live site, someone else's codebase — the input is never clean. The work is getting from that to one specification a designer can draw from, a developer can build from, and a client will sign, with the open questions named as questions instead of quietly guessed.
 
-- **A design handoff authored in the format the receiving tool actually reads** — The vendor's own guidance is that more context is not better, so the discipline was to route rather than to say more. *(Aug 2026)*
 - **Pivot PRD and Phase 4 backend spec authored and QA-gated** — Took a strategic pivot from decision to a build-ready, gap-checked specification in one session, catching four major spec gaps before any code was written. *(Jul 2026)*
 - **Role-specific design and development handoff packages authored from UX deliverables** — Turned a strategy-and-wireframe deliverable set into an actionable build brief for two disciplines in a single session. *(Jun 2026)*
+- **Phase A strategy deliverables synthesized from briefing materials** — Completed Phase A before a client presentation; all deliverables verified clean of restricted sponsor attribution before distribution. *(Jun 2026)*
 
 *17 further documented sessions in this area.*
 
@@ -35,7 +35,7 @@ Prototypes rebuilt before the meeting they are for. A phase deck re-cut and depl
 
 - **A retrieval corpus assembled from documents describing a superseded scope** — A retrieval system inherits the authority of whatever it is fed and reports none of its provenance. *(Aug 2026)*
 - **A read-only production query answered in minutes a content question that had been open for six days** — Converted a predicted defect into a confirmed one before a launch freeze, and measured a commercial assumption. *(Aug 2026)*
-- **Three evaluation passes collapsed into the one document a client could actually receive** — A self-contained HTML deliverable with cropped evidence embedded — 54 findings across four severity levels, 15 verified conformance points. *(Aug 2026)*
+- **A feature was removed from the prototype because the client's own transcript ruled it out** — Closed a loophole as a side effect — the app-level trial could not persist its state anywhere that survived uninstalling. *(Aug 2026)*
 
 *19 further documented sessions in this area.*
 
@@ -43,19 +43,19 @@ Prototypes rebuilt before the meeting they are for. A phase deck re-cut and depl
 
 A specialist agent roster with governed handoffs, custom MCP servers, per-agent vector knowledge bases, a spec-to-code pipeline that files its own questions as tickets, retrieval and memory hooks, observability on every tool call.
 
-- **An inspection standard met a live product, and only the guarantee enforced by structure survived the hour** — It separated the guarantees a method can actually make from the ones it only asserts — and it did so before the method was sold as reliable rather than after. *(Aug 2026)*
+- **An inspection standard met a live product, and only the guarantee enforced by structure survived the hour** — 41 findings, 4 of them shared across two models; a cold third pass reproduced 40 of the 41; three raters agreed within ±0.09. *(Aug 2026)*
 - **A blind comparison replaced the model that writes the memory system, then a judged cleanup archived 414 junk entries** — The choice rested on evidence rather than preference, and retrieval now draws on durable entries. *(Oct 2026)*
 - **Recovering a mail ingest after a subagent silently lost most of the payload** — Removed a silent data-loss mode from the pipeline: bodies now come from source of record, not from model retyping. *(Nov 2026)*
 
-*77 further documented sessions in this area.*
+*78 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
 AI produces plausible work, and plausible is the dangerous failure mode — it survives review because it reads well. So the errors get caught on this side of the handoff, not in a client's review queue: adversarial review runs as a standing gate, a second agent with a different brief, checking the claim against the source rather than against the document. It has retracted its own confirmed findings more than once.
 
 - **Two false findings caught by adding instruments rather than re-reading the evidence** — Prevented two confident but false findings from reaching a client's engineering team, and surfaced a set of undeclared infrastructure defects. *(Jul 2026)*
-- **A fix that made the failure visible instead of repairing it, reported as such** — The first fix made the failure loud, which is progress but is not a repair. *(Aug 2026)*
 - **Three anonymity gates, all string matchers, missed the class of leak none of them could see** — Closed a class of disclosure that string-matching cannot see by construction — removing a client's name does not remove their internal state. *(Sep 2026)*
+- **An independent QA gate caught three defects that validation by counting had passed** — Validation now has to test effect rather than presence, and the independent gate proved its worth by catching what the builder's own checks could not. *(Oct 2026)*
 
 *76 further documented sessions in this area.*
 
@@ -65,7 +65,7 @@ Model selection treated as an architectural decision with a written routing stan
 
 - **Completed billing-deadline migration: all automation defaults now on local models** — Met the billing deadline fifteen days early; preserved the metered path for quality-sensitive cases. *(May 2026)*
 - **A thirty-day token census pointed a cost-cutting request at a different lever than the one suspected** — The expensive work was not where intuition put it, and the restructure that felt productive would have saved under five percent. *(Sep 2026)*
-- **A zero-token watchdog for an unattended agent poller** — Monitoring now costs zero tokens per check and no longer depends on an open session, so an unattended automation is watched continuously at no running cost. *(Oct 2026)*
+- **A zero-token watchdog for an unattended agent poller** — A scheduled watchdog that survived two session exits across 46 runs with exit code 0 and no false alerts. *(Oct 2026)*
 
 *9 further documented sessions in this area.*
 
@@ -73,9 +73,9 @@ Model selection treated as an architectural decision with a written routing stan
 
 Budget cuts, same-day proposal deadlines, an estimate that has to come down without the delivery quietly coming down with it. The useful move is usually to re-cut the question rather than shave the plan — and to put the sacrifice order in writing before anyone is under pressure to choose.
 
-- **A dead application link became a direct counter-proposal, with two self-reported skill claims corrected first** — Converted a dead-link lead that would ordinarily have been dropped into a direct counter-proposal. *(Aug 2026)*
 - **A five-month UX proposal drafted, adversarially reviewed by an in-house agent, and delivered inside a same-day deadline** — Delivered on the requested day, six minutes inside it, with the strategy that differentiates the offer retained rather than given away. *(Jul 2026)*
 - **A second cut removed the horizon itself, and a knowledge-base gate held its ground** — Demonstrates that the practice's AI-assisted workflow enforces its own quality bar even under time pressure. *(Aug 2026)*
+- **UX Discovery quote drafted and QA'd before send, with pre-discovery findings included** — A client-facing UX Discovery quote with scope, deliverables, and a fixed investment figure; 3 pre-discovery findings delivered alongside the quote. *(Jul 2026)*
 
 *7 further documented sessions in this area.*
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*837 sessions recorded between 2026-03-06 and 2026-11-06; 221 of them logged but not written up. Regenerated from both sources on every update.*
+*848 sessions recorded between 2026-03-06 and 2026-11-11; 223 of them logged but not written up. Regenerated from both sources on every update.*
 
